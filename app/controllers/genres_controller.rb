@@ -15,7 +15,7 @@ class GenresController < ApplicationController
   end
 
   def show
-    @artist = Artist.find(params[:id])
+    @genre = Genre.find(params[:id])
   end
 
     def update
