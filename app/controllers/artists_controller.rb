@@ -1,7 +1,10 @@
 class ArtistsController < ApplicationController
-  def genres
+  def create
   end
 
-  def songs
+  def update
+  end
+
+  def show 
   end
 end
