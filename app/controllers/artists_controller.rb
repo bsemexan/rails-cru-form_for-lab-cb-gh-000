@@ -1,4 +1,7 @@
 class ArtistsController < ApplicationController
+  def index 
+    @artist = Artist.all
+  end
   def create
   end
 
