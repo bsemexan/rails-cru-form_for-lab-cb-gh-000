@@ -5,6 +5,6 @@ class ArtistsController < ApplicationController
   def update
   end
 
-  def show 
+  def show
   end
 end
