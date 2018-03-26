@@ -1,5 +1,5 @@
 class SongsController < ApplicationController
-  def create
+  def show
   end
 
   def new
